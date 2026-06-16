@@ -1,0 +1,29 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 201703L
+QMAKE_CXX.QMAKE_CLANG_MAJOR_VERSION = 18
+QMAKE_CXX.QMAKE_CLANG_MINOR_VERSION = 0
+QMAKE_CXX.QMAKE_CLANG_PATCH_VERSION = 3
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 2
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 1
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_CLANG_MAJOR_VERSION \
+    QMAKE_CLANG_MINOR_VERSION \
+    QMAKE_CLANG_PATCH_VERSION \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_CXX.INCDIRS = \
+    D:/qt/qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++ \
+    D:/qt/qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32 \
+    D:/qt/qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward \
+    C:/Users/Dingding/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/18/include \
+    D:/qt/qt5.14.2/Tools/mingw730_64/x86_64-w64-mingw32/include \
+    D:/qt/qt5.14.2/Tools/mingw730_64/include
+QMAKE_CXX.LIBDIRS = \
+    C:/Users/Dingding/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/lib/clang/18 \
+    C:/Users/Dingding/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/lib/x86_64-w64-windows-gnu \
+    D:/qt/qt5.14.2/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0 \
+    D:/qt/qt5.14.2/Tools/mingw730_64/x86_64-w64-mingw32/lib \
+    D:/qt/qt5.14.2/Tools/mingw730_64/x86_64-w64-mingw32/mingw/lib \
+    D:/qt/qt5.14.2/Tools/mingw730_64/lib

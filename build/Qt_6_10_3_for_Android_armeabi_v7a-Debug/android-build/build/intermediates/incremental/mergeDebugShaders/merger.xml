@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\qt\code\Android_Demo\build\Qt_6_10_3_for_Android_armeabi_v7a-Debug\android-build\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\qt\code\Android_Demo\build\Qt_6_10_3_for_Android_armeabi_v7a-Debug\android-build\src\debug\shaders"/></dataSet></merger>
